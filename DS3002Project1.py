@@ -6,7 +6,7 @@ Created on Sun Nov  7 16:44:55 2021
 @author: campbellhogg
 """
 
-#I set my directory to a desktop folder on my local machine, where I stored the dataset I downloaded from Kaggle
+#I set my directory to a desktop folder on my local machine, where I stored the dataset I downloaded from Kaggle: https://www.kaggle.com/unsdsn/world-happiness
 
 # Install Libraries
 import numpy as np
